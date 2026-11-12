@@ -1,5 +1,5 @@
 
-# Hi, I'm Vishwash Srivastava 👋
+# Hi, I'm Vishwash Srivastava !!
 
 ### Software Developer | Information Science & Engineering @ NMIT
 
@@ -7,16 +7,16 @@ I'm an engineering student passionate about software development, problem-solvin
 
 I enjoy working with Java, Python, databases and AI-powered applications.
 
-- 🎓 BE Information Science & Engineering, NMIT Bengaluru
-- 💻 Interested in Software Development and Full-Stack Engineering
-- 🤖 Exploring AI, LLMs and Multi-Agent Systems
-- 🚀 Building projects that solve real-world problems
-- 🌱 Currently strengthening DSA, Java and SQL
-- 🤝 Open to learning, collaboration and software development opportunities
+- BE Information Science & Engineering, NMIT Bengaluru
+- Interested in Software Development and Full-Stack Engineering
+- Exploring AI, LLMs and Multi-Agent Systems
+- Building projects that solve real-world problems
+- Currently strengthening DSA, Java and SQL
+- Open to learning, collaboration and software development opportunities
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages**
 
@@ -36,7 +36,7 @@ Git | GitHub | VS Code
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. PromptOS – Local Multi-Agent Prompt Optimizer
 
@@ -72,7 +72,7 @@ AI-powered educational platform currently under development.
 
 ---
 
-## 🏆 Leadership & Activities
+## Leadership & Activities
 
 - Vice President – The Big-O Society, NMIT
 - President – Goonj, Drama Club, NMIT
@@ -80,7 +80,7 @@ AI-powered educational platform currently under development.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - Full Stack Java Developer – Simplilearn
 - Data Structures and Algorithms – Simplilearn
@@ -90,7 +90,7 @@ AI-powered educational platform currently under development.
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/vishwash-srivastava/)
 
