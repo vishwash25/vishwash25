@@ -73,10 +73,19 @@ A Flutter application that helps users find compatible roommates through questio
 
 [Live Demo](https://roomee-59456.web.app)
 
-### 3. ShikshakAI
+### 3. ShikshakAI – AI-Powered Educational Platform
 
-AI-powered educational platform currently under development.
+An AI-powered educational platform designed to enhance the learning experience through intelligent content processing, OCR-based text extraction, and AI-driven educational assistance.
 
+- AI-powered educational content analysis
+- OCR-based document and text extraction
+- Intelligent learning assistance using LLMs
+- Bloom's Taxonomy-based learning support
+- REST API-based backend integration
+
+**Tech:** Python, FastAPI, Next.js, PostgreSQL, Claude API, PaddleOCR, Tesseract
+
+[View Repository](https://github.com/vishwash25/EduSahayak)
 ---
 
 ## Leadership & Activities
