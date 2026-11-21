@@ -40,23 +40,27 @@ I enjoy working with Java, Python, databases and AI-powered applications.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-
 ---
 
 ## Featured Projects
 
-### 1. PromptOS – Local Multi-Agent Prompt Optimizer
+### 1. EduSahayak – AI-Assisted Academic Assessment and Learning Platform
 
-A privacy-first prompt optimization system using a four-agent AI pipeline and locally hosted LLMs.
+An AI-powered educational platform designed to help educators and students analyse question papers, process academic documents, evaluate answers and create learning materials.
 
-- Multi-agent prompt refinement
-- FastAPI backend
-- Next.js frontend
-- Ollama and SQLite integration
+- AI-powered academic assistance and chat
+- AI quiz generation with up to 30 questions
+- OCR-based document and text extraction
+- Answer evaluation and OCR comparison
+- Bloom's Taxonomy-based learning analysis
+- PDF report generation
+- Read-only guest demo for exploring the platform
 
-**Tech:** Python, FastAPI, Next.js, Ollama, SQLite
+**Tech:** Python, FastAPI, Next.js, TypeScript, Groq API, Gemini API, OCR, Supabase
 
-[View Repository](https://github.com/vishwash25/PromptOS)
+[View Repository](https://github.com/vishwash25/EduSahayak)
+
+[Live Demo](https://edu-sahayak-xi.vercel.app)
 
 ### 2. Roomee – Roommate Matching Platform
 
@@ -73,19 +77,18 @@ A Flutter application that helps users find compatible roommates through questio
 
 [Live Demo](https://roomee-59456.web.app)
 
-### 3. EduSahayak – Agentic AI and Impact on workflow of Teaching and Learning
+### 3. PromptOS – Local Multi-Agent Prompt Optimizer
 
-An AI-powered educational platform designed to enhance the learning experience through intelligent content processing, OCR-based text extraction, and AI-driven educational assistance.
+A privacy-first prompt optimization system using a four-agent AI pipeline and locally hosted LLMs.
 
-- AI-powered educational content analysis
-- OCR-based document and text extraction
-- Intelligent learning assistance using LLMs
-- Bloom's Taxonomy-based learning support
-- REST API-based backend integration
+- Multi-agent prompt refinement
+- FastAPI backend
+- Next.js frontend
+- Ollama and SQLite integration
 
-**Tech:** Python, FastAPI, Next.js, PostgreSQL, Claude API, PaddleOCR, Tesseract
+**Tech:** Python, FastAPI, Next.js, Ollama, SQLite
 
-[View Repository](https://github.com/vishwash25/EduSahayak)
+[View Repository](https://github.com/vishwash25/PromptOS)
 
 ---
 
