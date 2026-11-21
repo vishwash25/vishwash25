@@ -89,6 +89,7 @@ A privacy-first prompt optimization system using a four-agent AI pipeline and lo
 **Tech:** Python, FastAPI, Next.js, Ollama, SQLite
 
 [View Repository](https://github.com/vishwash25/PromptOS)
+[Live Demo](https://prompt-os-tawny.vercel.app )
 
 ---
 
